@@ -1,5 +1,5 @@
 ---
-title: ZUMinternet EKS Immersion Day
+title: KCD EKS Accelerator
 ---
 
 KCD EKS Acceleration Program은 KCD 고객분들의 ECS에서 동작하는 Workload들을 EKS로 빠르게 이전할 수 있도록 도와드리는 프로그램입니다. 먼저 이론 Session을 통해서 Container의 기초적인 내용부터 시작하여 Amazon EKS 활용에 필요한 전반적인 이론을 다룹니다. 이론 Session 이후에는 3~4번 정도의 Office Hour 진행을 통해서 Workload 이전시 발생하는 문제점들을 파악하고, 해결 방법을 제시하여 빠르게 이전할 수 있도록 도와드립니다.
