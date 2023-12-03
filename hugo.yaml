@@ -1,0 +1,17 @@
+baseURL: "https://ssup2-aws.github.io/"
+title: "AWS Ssup2"
+theme: "hugo-book"
+
+defaultContentLanguage: "ko"
+languages:
+  ko:
+    contentDir: "content/korean"
+    languageName: "Korean"
+    weight: 10
+
+params:
+  BookTheme: "light"
+  BookToC: true
+  # BookFavicon: "favicon.png"
+  # BookLogo: /logo.png
+  bookComments: true
